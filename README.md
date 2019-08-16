@@ -11,7 +11,7 @@ Excecute "GANG SLANG.exe" and follow the handbook to type "GESTURES" - the only 
 The format is like: separated gestures with "space" and end with "tab":
 
                                    [gesture1][space][gesture2][space][\n]
-                                   [gestures3][space][numbers or charractors][space][\n]
+                                   [gestures3][space][numbers or characters][space][\n]
                                    [\t]
 
 For example, if you pay $100 and put 3.14 grams of marijuana in 1st zipper bag, you should:
