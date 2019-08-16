@@ -1,6 +1,6 @@
 # GANG-SLANG
 GANG SLANG (G$)
-G$ is an esoteric programmimg language (esolang) with some properties:
+ is an esoteric programmimg language (esolang) with some properties:
 1. Zipper bags are first-class citizens.
 2. CV (complex variable) is VC (vector calculous). VC is CV. (Not achieved yet.)
 3. Just as "LOGO" is known (by kids) as "turtle programming", G$ is also well-known (by me) as "drug-dealing programming." 
@@ -20,4 +20,4 @@ For example, if you pay $100 and put 3.14 grams of marijuana in 1st zipper bag, 
                                    >|< 3.14 
                                    (\t)
 				   
-You may also write "GESTURES" or EMOJIS in SHOPPINGLIST.htm, and use gestures "=lE#" and "=A=" to let dealing system .
+You may also write "GESTURES" or EMOJIS in SHOPPINGLIST.htm, and then use gestures "=lE#" (for "GESTURES") and "=A=" (for EMOJIS) to let dealing system identify.
