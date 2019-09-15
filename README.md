@@ -54,6 +54,5 @@ but actually this only cost you 13 BUCKS, for example, so you “write” again 
 	5.	=m/ : clean all bags
 	6.	&&& : copy all words in "SHOPPINGLIST.htm" with length of [territory] right now
 	7.	{ + [string] + } : dealer talks somthing
-	8.	M= : 
-	
+	8.	M= : end the program	
 ```
